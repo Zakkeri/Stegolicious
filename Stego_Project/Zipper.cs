@@ -18,6 +18,7 @@ namespace Stego_Project
             using (ZipFile zip = new ZipFile())
             {
                 zip.Password = password; //set password
+                zip.Encryption = EncryptionAlgorithm.WinZipAes256;
                 zip.AddFile(filename, ""); //add file to zip directory
                 zip.Save(file); //save file to a stream
             }
