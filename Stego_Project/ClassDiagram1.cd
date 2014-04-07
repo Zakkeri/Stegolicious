@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Stego_Project.Form1" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>QAACAAASACAAAAgYAACVAAACABgQACCAAAIACAAAKAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stego_Project.Form_PasswordPrompt" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ABAAAIAAECAIAAAAAACAAAACAAAAAABBgAAAAAAAAAA=</HashCode>
+      <FileName>PasswordPrompt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stego_Project.Stegonography" Collapsed="true">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAIAAgA=</HashCode>
+      <FileName>Stegonography.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stego_Project.Zipper" Collapsed="true">
+    <Position X="1.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Zipper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
